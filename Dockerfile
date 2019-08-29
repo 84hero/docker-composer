@@ -1,4 +1,4 @@
-FROM composer:1.7
+FROM composer:1.6
 
 LABEL maintainer="84hero <84hero@gmail.com>"
 

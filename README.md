@@ -1,4 +1,4 @@
-# FROM composer:1.7
+# FROM composer:1.6
 
 Composer 中国加速镜像 默认从阿里云更新
 
